@@ -1,3 +1,14 @@
-## Interface: 110107
 ## Title:|cff0099ffXv|r |cff00c0ffDisable RMB Target|r
+## Notes: Xv_DisableRMBTarget
+
+## DefaultState: enabled
+## Author: Xilver
+## Version: @project-version@
+
+## Interface: 110107
+
+## X-Curse-Project-ID: 878043
+
+## IconTexture: Interface\AddOns\Xv_DisableRMBTarget\Media\Textures\XvUI_Logo
+
 Init.lua
