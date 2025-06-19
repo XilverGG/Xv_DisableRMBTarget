@@ -6,7 +6,7 @@ function stopClick()
 end
 
 WorldFrame:HookScript("OnMouseUp", function(self, button)
-	if button == "RightButton" and not IsMouseButtonDown('RightButton') then
+	if button == "RightButton" then
 		if UnitAffectingCombat("player") then
 			if tf + x < y() then
 				stopClick()
